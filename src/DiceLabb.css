@@ -1,0 +1,22 @@
+body{
+
+}
+button{
+	width: 100px;
+	height: 100px;
+	border-radius: 15px;
+}
+
+#RedDice{
+	background-color: red;
+}
+
+#BlueDice{
+	background-color: blue;
+	color: white;
+}
+
+#GreenDice{
+	background-color: green;
+	color: white;
+}

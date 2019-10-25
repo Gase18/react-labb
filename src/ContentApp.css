@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+.card {
+    margin: 1em;
+    background-color: red;
+    padding: 1em;
+}
+
+.meny {
+    margin: 1em;
+    background-color: blueviolet;
+    padding: 1em;
+}
+
+.content{
+    padding: 0em 2em 2em 2em;
+    
+}
+
+h2{
+    text-align: center;
+}
